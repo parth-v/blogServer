@@ -6,18 +6,18 @@
       "content": "hello guys!!"
     },
     {
-      "title": "New post",
-      "content": "Hello",
+      "title": "second post",
+      "content": "Hello again",
       "id": 2
     },
     {
-      "title": "New third",
+      "title": "third post edited",
       "content": "Hii",
       "id": 3
     },
     {
-      "title": "New fo",
-      "content": "Newwwee",
+      "title": "fourth",
+      "content": "New user",
       "id": 4
     }
   ]
