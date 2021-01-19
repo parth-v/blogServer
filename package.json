@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3",
-    "ngrok": "^3.3.0"
+    "ngrok": "^3.4.0"
   }
 }
